@@ -1,16 +1,15 @@
-# List
+# My List
+Whenever you go market or shops, you will have a list of products that you want to buy with required quantites.This app will helps you to make a list from the products that you gave with required quantities.There is no need of pen and paper,no need to memorize.And it is offline app so no need of internet.
 
-A new Flutter project.
+# Description
+This app built using flutter.Flutter apps gives flexibility to run app on android,ios and web too.
+In the app,
+ItemNames are the products that you frequently buy or you want to buy.You can have any language to fill that.You can delete item name if you want.
 
-## Getting Started
+Add a list to the app.You can have any number of lists in app.You can delete list if you want
 
-This project is a starting point for a Flutter application.
+select a list and add items to the list with your quantities.
 
-A few resources to get you started if this is your first Flutter project:
+By adding items to list ,list will grow.And you can remove any item from the list whenever you want.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Finally, this app built with nice UI.
